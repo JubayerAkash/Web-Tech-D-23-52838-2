@@ -1,0 +1,16 @@
+body 
+{
+    font-family: Verdana;
+    margin: 15px;
+}
+
+h1 
+{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+button
+{
+    padding: 6px 12px;
+}
